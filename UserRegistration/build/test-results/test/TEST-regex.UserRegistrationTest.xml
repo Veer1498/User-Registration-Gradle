@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="regex.UserRegistrationTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-09-07T20:02:36" hostname="VEERENDRA" time="0.055">
+<testsuite name="regex.UserRegistrationTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-09-07T20:27:45" hostname="VEERENDRA" time="0.018">
   <properties/>
-  <testcase name="firstName_Should_returnFalse()" classname="regex.UserRegistrationTest" time="0.05"/>
-  <testcase name="firstName_Should_returnTrue()" classname="regex.UserRegistrationTest" time="0.004"/>
-  <system-out><![CDATA[Please Enter Valid First Name
-vee
+  <testcase name="password_Should_returnFalse()" classname="regex.UserRegistrationTest" time="0.018"/>
+  <system-out><![CDATA[Please Enter Valid Password
+veersing
 false
-Please Enter Valid First Name
-Veerendra
-true
 ]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
